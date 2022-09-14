@@ -1,0 +1,8 @@
+{
+    "port": "/dev/ttyUSB0",
+    "configuration": "FlashFreq=80,UploadSpeed=115200",
+    "board": "esp32:esp32:nodemcu-32s",
+    "sketch": "soft-personalizer.ino",
+    "arduino.path": "/home/zetxx/Arduino",
+    "arduino.defaultBaudRate": 115200
+}

@@ -1,0 +1,8 @@
+{
+    "port": "/dev/ttyUSB1",
+    "configuration": "cpu=8MHzatmega328",
+    "board": "arduino:avr:pro",
+    "sketch": "arduino-pro-mini-node.ino",
+    "arduino.path": "/home/zetxx/Arduino",
+    "arduino.defaultBaudRate": 115200
+}
